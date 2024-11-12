@@ -10,7 +10,7 @@ phone_number = '+212611751954'
 app = Client("my_account", api_id=api_id, api_hash=api_hash)
 
 message_text_hourly = "🎁 المكافأة اليوميه"
-message_text_4_minutes = "مشاهدة الاعلانات 💸"
+message_text_4_minutes = "مشاهدة الأعلانات💸"
 
 bot_username = '@USdularatbot'
 
